@@ -1,6 +1,6 @@
 {
-  "name": "nodeApp",
-  "version": "0.0.0",
+  "name": "nodeapp-membership",
+  "version": "0.0.1",
   "description": "testing node patterns",
   "main": "index.js",
   "dependencies": {
